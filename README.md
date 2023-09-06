@@ -10,7 +10,7 @@ Through the use of digital solutions, I've aided small and medium-sized enterpri
 
 - HTML & CSS
 
-##Frameworks
+## Frameworks
 
 - React
 - Typescript
